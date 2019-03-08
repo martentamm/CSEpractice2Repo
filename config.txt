@@ -21,5 +21,6 @@ filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 filter.lfs.clean=git-lfs clean -- %f
 user.email=marten.tamm@gmail.com
-:
+.gitignore contains different Python files to ignore
+:)
 
