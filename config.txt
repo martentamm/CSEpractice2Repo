@@ -1,4 +1,4 @@
-
+Marten Tamm -I added that because I copied wrong things in the beginning
 core.autocrlf=true
 core.fscache=true
 color.diff=auto
