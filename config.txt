@@ -1,5 +1,4 @@
- git config -l
-core.symlinks=false
+
 core.autocrlf=true
 core.fscache=true
 color.diff=auto
